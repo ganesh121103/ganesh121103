@@ -78,4 +78,4 @@ A responsive personal portfolio built with **React** to showcase my projects, te
 
 #  Fun Fact
 
-> **Code. Learn. Build. Repeat. **
+> **Code. Learn. Build. Repeat.**
