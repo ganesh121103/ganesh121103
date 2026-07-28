@@ -20,15 +20,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/ganesh-patil-749b10318/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app" target="_blank">
+<a href="https://https://ganesh121103.github.io" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -91,11 +87,10 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh121103&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh121103&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh121103&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh121103&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -103,9 +98,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ganesh121103&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=ganesh121103&theme=tokyonight" />
 </p>
 
 ---
@@ -113,9 +106,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ganesh121103&theme=tokyonight&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh121103&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
