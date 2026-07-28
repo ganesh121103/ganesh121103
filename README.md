@@ -14,7 +14,7 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 -  B.Tech Computer Science Graduate
 -  Looking for Java Full Stack Developer Opportunities
@@ -24,7 +24,7 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -40,7 +40,7 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -50,51 +50,32 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 ---
 
-## 🚀 Featured Projects
+#  Featured Projects
 
-### 🔹 [Event Management System](https://github.com/ganesh121103/Event-Management-System)
+###  [Event Management System](https://github.com/ganesh121103/Event-Management-System)
 
-Spring Boot + React based event management platform with JWT authentication, role-based access, event booking, and admin dashboard.
-
----
-
-### 🔹 [Employee Management System](https://github.com/ganesh121103/Employee-Management-System)
-
-Java Spring Boot application with attendance, leave management, email notifications, and role-based authentication.
+A full-stack event management platform built using **Spring Boot, React, and MySQL** featuring secure JWT authentication, role-based access, event booking, and an admin dashboard.
 
 ---
 
-### 🔹 [FarmLink](https://github.com/ganesh121103/FarmLink)
+###  [Employee Management System](https://github.com/ganesh121103/Employee-Management-System)
 
-MERN-based marketplace connecting farmers directly with customers.
-
----
-
-### 🔹 [Portfolio Website](https://github.com/ganesh121103/Portfolio)
-
-Personal portfolio built using React showcasing projects and skills.
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ganesh121103&theme=tokyonight&hide_border=true"/>
-
-</p>
+A Java Spring Boot application for managing employees with attendance tracking, leave management, email notifications, role-based authentication, and a responsive admin panel.
 
 ---
 
-# 📈 Contribution Graph
+###  [FarmLink](https://github.com/ganesh121103/FarmLink)
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh121103&theme=tokyo-night"/>
-
-</p>
+A MERN stack marketplace connecting farmers directly with customers, including authentication, product management, image uploads, and real-time communication.
 
 ---
 
-# ⚡ Fun Fact
+###  [Portfolio Website](https://ganesh121103.github.io/)
 
-> **Code. Learn. Build. Repeat. 🚀**
+A responsive personal portfolio built with **React** to showcase my projects, technical skills, certifications, and contact information.
+
+---
+
+#  Fun Fact
+
+> **Code. Learn. Build. Repeat. **
