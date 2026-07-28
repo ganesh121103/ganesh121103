@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Patil</h1>
+<h1 align="center">Hi , I'm Ganesh Patil</h1>
 
 <h3 align="center">
 Java Full Stack Developer | Spring Boot | React | MySQL
@@ -16,11 +16,11 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Graduate
-- 💼 Looking for Java Full Stack Developer Opportunities
-- 🌱 Learning Spring Boot, React, DSA & System Design
-- 🚀 Passionate about building scalable web applications
-- 📫 Email: ganeshp121103@gmail.com
+-  B.Tech Computer Science Graduate
+-  Looking for Java Full Stack Developer Opportunities
+-  Learning Spring Boot, React, DSA & System Design
+-  Passionate about building scalable web applications
+-  Email: ganeshp121103@gmail.com
 
 ---
 
@@ -50,44 +50,29 @@ Java Full Stack Developer | Spring Boot | React | MySQL
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎯 Event Management System
+### 🔹 [Event Management System](https://github.com/ganesh121103/Event-Management-System)
 
-- Spring Boot
-- React
-- JWT Authentication
-- MySQL
-- REST APIs
+Spring Boot + React based event management platform with JWT authentication, role-based access, event booking, and admin dashboard.
 
 ---
 
-## 👨‍💼 Employee Management System
+### 🔹 [Employee Management System](https://github.com/ganesh121103/Employee-Management-System)
 
-- Spring Boot
-- Spring Security
-- Email Verification
-- Attendance
-- Leave Management
+Java Spring Boot application with attendance, leave management, email notifications, and role-based authentication.
 
 ---
 
-## 🌾 FarmLink
+### 🔹 [FarmLink](https://github.com/ganesh121103/FarmLink)
 
-- MERN Stack
-- JWT Authentication
-- Image Upload
-- Chat
-- Payment Gateway
+MERN-based marketplace connecting farmers directly with customers.
 
 ---
 
-## 🌐 Portfolio Website
+### 🔹 [Portfolio Website](https://github.com/ganesh121103/Portfolio)
 
-- React
-- Responsive Design
-- Contact Form
-
+Personal portfolio built using React showcasing projects and skills.
 ---
 
 # 🔥 GitHub Streak
